@@ -1,11 +1,11 @@
 # Node.js dependencies
-/node_modules/
-/package-lock.json
-/package.json
+node_modules
+package-lock.json
+package.json
 
 # Virtual environment directories
-/vene/
-/env/
+vene
+env
 
 # Operating system files
 tasks.db

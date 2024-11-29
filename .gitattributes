@@ -1,0 +1,6 @@
+# Ensure consistent line endings for text files
+* text=auto
+
+# Explicitly handle line endings for certain files
+frontend/node_modules/* text eol=lf
+backend/node_modules/* text eol=lf

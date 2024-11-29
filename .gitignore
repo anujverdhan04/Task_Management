@@ -1,0 +1,19 @@
+/node_modules/
+/package-lock.json
+/package.json
+
+# Virtual environment
+/vene/
+/env/
+
+
+
+
+
+
+# Operating system files
+tasks.db
+
+# PostCSS config 
+postcss.config.js
+

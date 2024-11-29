@@ -1,19 +1,14 @@
+# Node.js dependencies
 /node_modules/
 /package-lock.json
 /package.json
 
-# Virtual environment
+# Virtual environment directories
 /vene/
 /env/
-
-
-
-
-
 
 # Operating system files
 tasks.db
 
-# PostCSS config 
+# PostCSS config
 postcss.config.js
-
